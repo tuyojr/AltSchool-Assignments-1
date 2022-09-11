@@ -42,3 +42,5 @@ How to: To take and submit this assignment, create an account on [Repl.it](http:
 8. Somewhere on the page where it makes sense visually, add a photo of yourself.
 
 9. Bonus: Re-create the calculator UI in a new page, using CSS flexbox instead of using a table like earlier requested.
+
+The live page can be assessed [here](https://altschool-of-engineering-first-semester-assignment-1.tuyojr.repl.co/).
