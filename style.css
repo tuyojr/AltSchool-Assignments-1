@@ -440,4 +440,42 @@ form .user-details .input-box {
     transition: all 0.4s ease;
 }
 
+@media (max-width: 584px){
+    .container2 {
+        max-width: 100%;
+    }
+    form .user-details .input-box {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    #dropdown {
+        width: 100%;
+    }
+    .container2 form .user-details {
+        max-height: 300px;
+        overflow-y: scroll;
+    }
+    .user-details::webkit-scrollbar {
+        width: 0;
+    }
+    .txt_field input {
+        width: 100%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
